@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nitro build",
+    "dev": "nitro dev",
+    "watch": "nodemon",
+    "prepare": "nitro prepare",
+    "preview": "node .output/server/index.mjs"
+  },
+  "dependencies": {
+    "@kotan-kndev/re25-0331page1": "npm:@jsr/kotan-kndev__re25-0331page1@^0.9.5",
+    "@kotan-kndev/sv25-0331page3": "npm:@jsr/kotan-kndev__sv25-0331page3@^0.9.1",
+    "@kotan-kndev/vu25-0402page4": "npm:@jsr/kotan-kndev__vu25-0402page4@^0.9.1",
+    "nodemon": "^3.1.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^6.21.2",
+    "vite": "^6.2.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "nitropack": "latest",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}

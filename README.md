@@ -4,7 +4,7 @@
 
  Author  : 
 
- date    : 2025/04/13
+ date    : 2025/04/14
 
  update  :
 
@@ -20,6 +20,24 @@ JSR package , example
 ***
 ### JSR Package
 
+
+* @kotan-kndev/re25-0331page1
+* ap2-react , page2
+***
+* @kotan-kndev/sv-page3-250402
+* ap2-svelte , page3
+***
+* @kotan-kndev/vu-page4-250403
+* ap2-vue ,  page4
+***
+* @kotan-kndev/sv-login-250403
+* ap3-svelte login
+
+***
+* @kotan-kndev/pre-page6-250405
+* ap6-preact , page6
+
+***
 * @kotan-kndev/ap7-svelte-task-item-create
 * ap7-svelte , task_item_create
 ***
